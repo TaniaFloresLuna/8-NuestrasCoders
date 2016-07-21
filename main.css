@@ -1,0 +1,66 @@
+.img1{
+	position: absolute;
+	top: 100px;
+
+}
+.img2{
+	position: absolute;
+	top: 100px;
+	left: 250px;
+
+}
+.img3{
+	position: absolute;
+	top: 100px;
+	left: 500px;
+
+}
+.img4{
+	position: absolute;
+	top: 355px;
+}
+.img5{
+	position: absolute;
+	top: 355px;
+	left: 250px;
+}
+.img6{
+	position: absolute;	
+	top: 355px;
+	left: 500px;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	color: black;
+
+}
+
+.texto{
+	position: absolute;
+	color: white;
+	font-size: 15px;
+	font-family: Times;
+	bottom: 20px;
+	left: 90px;
+}
+/*
+.rayita{
+	width: 100px;
+	height: 10px;
+	background-color: black;
+}
+*/
+img{
+	opacity: 0.8;
+}
+hr{
+	color: black;
+	font-size: 5px;
+	width: 250px;
+	align: left;
+	margin: 0px;
+	margin-bottom: 20px
+}
